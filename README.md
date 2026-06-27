@@ -11,7 +11,7 @@ An interactive, cloud-deployed Business Intelligence (BI) dashboard built with *
 This project demonstrates an end-to-end data analytics workflow, divided into two main stages:
 
 1. **Data Extraction (`data_extraction.ipynb`):** A Google Colab notebook utilizing SQL queries within Google BigQuery to extract sales data and export it into a [CSV file](https://drive.google.com/file/d/1lU_aoyGx90UMKb3e3u_bkbKweqn2HfFT/view?usp=sharing).
-2. **BI & AI Automation Dashboard (`app.py`):** A web application that processes the dataset, visualizes key business metrics, and uses AI to generate an automated Executive Report for management.
+2. **BI & AI Automation Dashboard (`app.py`):** A web application that processes the dataset ([CSV file](https://drive.google.com/file/d/1lU_aoyGx90UMKb3e3u_bkbKweqn2HfFT/view?usp=sharing)), visualizes 4 key business revenue metrics, and uses AI to generate an automated Executive Report for management.
 
 ---
 
@@ -33,11 +33,11 @@ This project demonstrates an end-to-end data analytics workflow, divided into tw
 ---
 
 ### 2. BI Dashboard
-<img width="2172" height="1110" alt="image" src="https://github.com/user-attachments/assets/f6ed1e2a-13b9-4050-88ea-dd2d79e52234" />
+<img width="2421" height="1105" alt="image" src="https://github.com/user-attachments/assets/78d9a427-4e3b-4f1c-8d68-8c48a346a694" />
 
 ---
 
 ### 3. AI-Generated Report
-<img width="2391" height="1284" alt="image" src="https://github.com/user-attachments/assets/3bf03322-5956-4943-bc36-318de9664272" />
+<img width="2106" height="1045" alt="image" src="https://github.com/user-attachments/assets/c4b191ef-5566-4849-b102-819ce11be796" />
 
 ---
