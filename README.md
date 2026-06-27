@@ -10,7 +10,7 @@ An interactive, cloud-deployed Business Intelligence (BI) dashboard built with *
 
 This project demonstrates an end-to-end data analytics workflow, divided into two main stages:
 
-1. **Data Extraction (`data_extraction.ipynb`):** A Google Colab notebook utilizing SQL queries within Google BigQuery to extract sales data and export it into a CSV file.
+1. **Data Extraction (`data_extraction.ipynb`):** A Google Colab notebook utilizing SQL queries within Google BigQuery to extract sales data and export it into a [CSV file](https://drive.google.com/file/d/1lU_aoyGx90UMKb3e3u_bkbKweqn2HfFT/view?usp=sharing).
 2. **BI & AI Automation Dashboard (`app.py`):** A web application that processes the dataset, visualizes key business metrics, and uses AI to generate an automated Executive Report for management.
 
 ---
