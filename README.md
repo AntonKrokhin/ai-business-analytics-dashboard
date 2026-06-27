@@ -33,7 +33,7 @@ This project demonstrates an end-to-end data analytics workflow, divided into tw
 ---
 
 ### 2. BI Dashboard
-<img width="2421" height="1105" alt="image" src="https://github.com/user-attachments/assets/78d9a427-4e3b-4f1c-8d68-8c48a346a694" />
+<img width="2172" height="1110" alt="image" src="https://github.com/user-attachments/assets/f6ed1e2a-13b9-4050-88ea-dd2d79e52234" />
 
 ---
 
